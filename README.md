@@ -1,5 +1,5 @@
 # Script-List
-The scripts on this list are ones that should be ready to be used on their own, likeley without my help, and are made available in the Ansys-Internal organization.
+The scripts on this list are ones that should be ready to be used on their own, likely without my help, and are made available in the Ansys-Internal organization.
 
 If you are not a Synopsys/Ansys employee, reach out to your representative.
 
