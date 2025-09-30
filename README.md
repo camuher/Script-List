@@ -5,3 +5,4 @@ List of scripts and links to Ansys-internal repositories.  If you are not a Syno
 * **Create Native Geometry From Array**, https://github.com/ansys-internal/HFSSCreateNativeGeometryFromArray : Turn CADDM built using the finite array tool into native geometry to support a variety of “next steps” in array building workflows. See .pdf file for more details.
 ### Data Export
 * **Phase Shift Correction for FFD**, https://github.com/ansys-internal/HFSSHybridArrayExportPhaseShift
+* **HFSS Export of STK RCS** https://github.com/ansys-internal/HFSSExportSTKRCS : Exports FullComplexScatterMatrix .rcs format from HFSS for use in STK
