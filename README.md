@@ -1,4 +1,4 @@
-# Carlos's Scripted Solutons List
+# Carlos's Scripted Solutions List
 The scripts on this list are ones that should be ready to be used on their own, likely without my help, and are made available in the Ansys-Internal organization.
 
 ### HFSS Geometry
