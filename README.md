@@ -1,4 +1,4 @@
-# Script-List
+# Carlos's Scripted Solutons List
 The scripts on this list are ones that should be ready to be used on their own, likely without my help, and are made available in the Ansys-Internal organization.
 
 ### HFSS Geometry
@@ -8,9 +8,11 @@ The scripts on this list are ones that should be ready to be used on their own, 
 * **Export S-Parameters for All Variations** - IronPython script with GUI to export S-parameter data, in case you forgot to automatically export S-parameters in Design Settings.  Repo: https://github.com/ansys-internal/HFSSExportSParametersForVariations
 * **Export Far Field Data for All Variations** - Iron Python script with GUI that looks for all available variations for a solved frequency sweep and exports the ffd files as specified by a selected far field setup. Repo: https://github.com/ansys-internal/HFSSExportFarFieldDataForVariations
 * **Export Near Field Data for Individual Sources** - IronPython script with GUI that iterates over all the excitations in a design and exports the NF data corresponding to each source.  Repo: https://github.com/ansys-internal/HFSSExportNearFieldFromIndividualSources
-* **Phase Shift Correction for FFD**.  Repo: https://github.com/ansys-internal/HFSSHybridArrayExportPhaseShift
+* **Phase Shift Correction for FFD** - Corrects the SBR+ Element Pattern export so the folder now contains offsets and offset-referenced field patterns. Consistent with stand-alone array exports and the eep_array workflow in STK.  Repo: https://github.com/ansys-internal/HFSSHybridArrayExportPhaseShift
 * **HFSS Export of STK RCS** - IronPython script with GUI that exports FullComplexScatterMatrix .rcs format from HFSS for use in STK.  Repo: https://github.com/ansys-internal/HFSSExportSTKRCS
 
+
+#"I Can't Acess the Links!?"
 Ansys/Synopsys employees, reach out to admins or me to enable access (you'll likely get a 404 unless policies change since this writting)
 
 If you are not a Synopsys/Ansys employee, reach out to your representative.
