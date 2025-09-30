@@ -6,4 +6,4 @@ List of scripts and links to Ansys-internal repositories.  If you are not a Syno
 ### HFSS Data Export
 * **Export Near Field Data for Individual Sources** - IronPython script with GUI that iterates over all the excitations in a design and exports the NF data corresponding to each source.  Repo: https://github.com/ansys-internal/HFSSExportNearFieldFromIndividualSources
 * **Phase Shift Correction for FFD**.  Repo: https://github.com/ansys-internal/HFSSHybridArrayExportPhaseShift
-* **HFSS Export of STK RCS** - IronPython script with GUI that exports FullComplexScatterMatrix .rcs format from HFSS for use in STK.  Repo: https://github.com/ansys-internal/HFSSExportSTKRC
+* **HFSS Export of STK RCS** - IronPython script with GUI that exports FullComplexScatterMatrix .rcs format from HFSS for use in STK.  Repo: https://github.com/ansys-internal/HFSSExportSTKRCS
