@@ -12,6 +12,8 @@ The scripts on this list are ones that should be ready to be used on their own, 
 * **Export of STK RCS** - IronPython script with GUI that exports FullComplexScatterMatrix .rcs format from HFSS for use in STK.  Repo: https://github.com/ansys-internal/HFSSExportSTKRCS
 ### STK
 * **Steer Nulls in HFSS Array** - Active Beam and Null Steering Between HFSS and STK.  Repo: https://github.com/ansys-internal/STKSteerHFSSArrayNulls
+### Model Center
+* **Model Center AEDT Versioned Launchers** - collection of .bat files so ModelCenter points to the same version of AEDT when there are multiple versions installed.  Repo: https://github.com/ansys-internal/ModelCenterAEDTVersionedLaunchers
 
 # "I Can't Acess the Links!?"
 Ansys/Synopsys employees, make sure you're part of the ansys-internal/all-members team.
