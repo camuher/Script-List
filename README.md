@@ -1,5 +1,5 @@
 # Carlos's Scripted Solutions List
-The scripts on this list are ones that should be ready to be used on their own, likely without my help, and are made available in the Ansys-Internal organization.
+The scripts on this list are ones that should be ready to be used on their own, likely without my help, and are made available through the Ansys-Internal organization.
 
 ### HFSS Geometry
 * **Create Spline From File** - IronPython script with GUI that will run from HFSS and let you import your point list from a .pts file. Repo: https://github.com/ansys-internal/CreateSplineFromFileHFSS
