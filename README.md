@@ -14,6 +14,6 @@ The scripts on this list are ones that should be ready to be used on their own, 
 * **Steer Nulls in HFSS Array** - Active Beam and Null Steering Between HFSS and STK.  Repo: https://github.com/ansys-internal/STKSteerHFSSArrayNulls
 
 # "I Can't Acess the Links!?"
-Ansys/Synopsys employees, reach out to admins or me to enable access (you'll likely get a 404 unless policies change since this writting)
+Ansys/Synopsys employees, make sure you're part of the ansys-internal/all-members team.
 
 If you are not a Synopsys/Ansys employee, reach out to your representative.
