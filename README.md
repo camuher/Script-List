@@ -9,8 +9,8 @@ The scripts on this list are ones that should be ready to be used on their own, 
 * **Export S-Parameters for All Variations** - IronPython script with GUI to export S-parameter data, in case you forgot to automatically export S-parameters in Design Settings.  Repo: https://github.com/ansys-internal/HFSSExportSParametersForVariations
 * **Export Far Field Data for All Variations** - Iron Python script with GUI that looks for all available variations for a solved frequency sweep and exports the ffd files as specified by a selected far field setup. Repo: https://github.com/ansys-internal/HFSSExportFarFieldDataForVariations
 * **Export Near Field Data for Individual Sources** - IronPython script with GUI that iterates over all the excitations in a design and exports the NF data corresponding to each source.  Repo: https://github.com/ansys-internal/HFSSExportNearFieldFromIndividualSources
-* **Phase Shift Correction for FFD** - IronPython script with GUI that corrects the Hybrid Array in SBR+ Element Pattern export so the folder now contains offsets and offset-referenced field patterns. Consistent with stand-alone array exports and the eep_array workflow in STK.  Repo: https://github.com/ansys-internal/HFSSHybridArrayExportPhaseShift
-* **Export of STK RCS** - IronPython script with GUI that exports FullComplexScatterMatrix .rcs format from HFSS for use in STK.  Repo: https://github.com/ansys-internal/HFSSExportSTKRCS
+* **Phase Shift Correction for Hybrid Array FFDs** - IronPython script with GUI that corrects the Hybrid Array in SBR+ Element Pattern export so the folder now contains offsets and offset-referenced field patterns. Consistent with stand-alone array exports and the eep_array workflow in STK.  Repo: https://github.com/ansys-internal/HFSSHybridArrayExportPhaseShift
+* **Export STK RCS** - IronPython script with GUI that exports FullComplexScatterMatrix .rcs format from HFSS for use in STK.  Repo: https://github.com/ansys-internal/HFSSExportSTKRCS
 ### STK
 * **Steer Nulls in HFSS Array** - Active Beam and Null Steering Between HFSS and STK.  Repo: https://github.com/ansys-internal/STKSteerHFSSArrayNulls
 ### Model Center
