@@ -1,7 +1,7 @@
 # Carlos's Scripted Solutions List
 The scripts on this list are ones that should be ready to be used on their own, likely without my help, and are made available through the Ansys-Internal organization.
 ### AEDT Misc.
-* **Terminate Desktop Toolkit** - IronPython Toolkit to forcefully terminate the current desktop session, like when a script terminated abnormally and didn't relase it. Repo: https://github.com/ansys-internal/AEDTTerminateDesktopToolkit
+* **Terminate Desktop Toolkit** - IronPython Toolkit to forcefully terminate the current desktop session, like when a script terminated abnormally and didn't release it. Repo: https://github.com/ansys-internal/AEDTTerminateDesktopToolkit
 ### HFSS Geometry
 * **Create Spline From File** - IronPython script with GUI that will run from HFSS and let you import your point list from a .pts file. Repo: https://github.com/ansys-internal/CreateSplineFromFileHFSS
 * **Create Native Geometry From Array** - IronPython script with GUI to turn CADDM built using the finite array tool into native geometry to support a variety of “next steps” in array building workflows. Repo: https://github.com/ansys-internal/HFSSCreateNativeGeometryFromArray
